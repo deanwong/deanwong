@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/deanwong/deanwong/master/profile-summary-card-output/radical/4-productive-time.svg)
-```
-
-    
